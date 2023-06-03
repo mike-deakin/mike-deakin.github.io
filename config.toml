@@ -1,4 +1,5 @@
 baseURL = 'https://mike-deakin.github.io'
 languageCode = 'en-gb'
 title = 'Mike Deakin'
+subtitle = 'Systems Designer & Engineer'
 theme = 'PaperMod'
